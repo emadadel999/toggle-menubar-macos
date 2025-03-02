@@ -2,10 +2,6 @@
 
 an [Alfred](https://www.alfredapp.com/) workflow to toggle macOS's menu-bar between two pre-defined states
 
-![Alfred using keyword menubar to run workflow](https://github.com/emadadel999/toggle-menubar-macos/blob/main/sc1.png?raw=true)
-
-![System Settings menu bar options](https://github.com/emadadel999/toggle-menubar-macos/blob/main/sc2.png?raw=true)
-
 ## Requirements
 - macOS
 - [Alfred](https://www.alfredapp.com/) app, given all needed permissions.
@@ -20,6 +16,9 @@ an [Alfred](https://www.alfredapp.com/) workflow to toggle macOS's menu-bar betw
 - Assign a Keyword to trigger the workflow in Alfred.
 - Configure a [Hotkey](https://www.alfredapp.com/help/workflows/triggers/hotkey/) for faster triggering.
 
+![Alfred using keyword menubar to run workflow](https://github.com/emadadel999/toggle-menubar-macos/blob/main/sc1.png?raw=true)
+
+![System Settings menu bar options](https://github.com/emadadel999/toggle-menubar-macos/blob/main/sc2.png?raw=true)
 
 
 > **Note** if you don't wanna use Alfred, you can use the native apple appliction:
