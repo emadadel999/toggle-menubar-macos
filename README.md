@@ -2,7 +2,7 @@
 
 an [Alfred](https://www.alfredapp.com/) workflow to toggle macOS's menu-bar between two pre-defined states
 
-![System Settings menu bar options]((https://github.com/emadadel999/toggle-menubar-macos/blob/main/sc.png?raw=true))
+![System Settings menu bar options](https://github.com/emadadel999/toggle-menubar-macos/blob/main/sc.png?raw=true)
 
 ## Requirements
 - macOS
